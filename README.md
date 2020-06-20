@@ -1,0 +1,1 @@
+# WAP-in-C-that-inputs-two-arrays-and-save-sum-of-their-elements-in-third-array-and-print-it.
